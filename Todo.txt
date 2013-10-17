@@ -1,1 +1,3 @@
-Learn to make commits
+Learn to make commits (done)
+
+Learn about ignoring files
